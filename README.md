@@ -1,6 +1,6 @@
 ��# auth-jwt
 
-#clone le projet: 
+#clone le projet: https://github.com/otzim/auth-jwt
 ****
 #installation
 ****
